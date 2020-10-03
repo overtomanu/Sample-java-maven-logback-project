@@ -1,4 +1,4 @@
-#Sample-java-maven-logback-project
+# Sample-java-maven-logback-project
 This is a sample java maven project with logback.
 
 Logback is configured so that each log file will have maximum size of 10 MB. 
